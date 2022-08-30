@@ -1,0 +1,5 @@
+запросы: axios
+стили:styled-components
+реакт роутер: yarn add @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context
+ react-native-gesture-handler
+ для форматирования даты в нужный формат либа: date-fns
